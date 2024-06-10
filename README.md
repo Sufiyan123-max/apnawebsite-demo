@@ -1,4 +1,4 @@
 # apnawebsite-demo
 this is my first git repository.
 <br>
-Author - Sufiyan siddique
+Author - Sufiyan (apna college)
